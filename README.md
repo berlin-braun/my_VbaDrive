@@ -11,7 +11,7 @@ Debug.Print drive_Exists("H") ' --> False<br>
 Debug.Print drive_Share_Exists("H") ' --> True<br>
 Debug.Print drive_Available("H") ' --> False<br>
 <br>
-<b>Find last available driveletter start with letter U go backword until F.<br></b>
+<b>Find last available driveletter start with letter U go backward until F.<br></b>
 Debug.Print drive_Last_Letter("U", "F")<br>
 
 
